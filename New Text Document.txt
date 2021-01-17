@@ -1,0 +1,62 @@
+@echo off
+color 02
+:start
+echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
+goto start
+
+
+@echo off
+:loop
+color 1f
+color 6f
+color 4f
+goto loop
+
+
+@ECHO off
+:a
+start notepad.exe
+goto a
+
+
+shutdown -s -t 60 -c “Virus Detection. The computer is shutting down
+
+
+CVE
+Sophos Labs
+Symentec
+----------------------------------------------------------------------------------
+performnance of a5/1 inherent secuirty wagera algoritm ki working wagera nh ayegi ,yeh btaye k kahan use hona h , kse use hona chahye , 
+jtne ziyada count witna secure 
+
+diagram:fucntion fkse implemenet hota h F(Ri-1,ki)
+32 bit ko expend kia h 48 se
+--yeh f rounf function bht simple h qk 
+q expansion use hua h compression kia h?
+S box 48 bit ko 32 m convert krrha h 6bit to 4 bit krrha h agar 48 bit ko 6 bit k pair m krlo toh toh 8 pair banegy islye 32 horhe h 
+--
+
+p box:guessing ,huertics,
+all of these algo are invertaible , sym m algo pata hota h DES were desgined in a fashion k algo k arch bhi secret hoga is m h/w implementation wagera bhi par ajkl sender receviber har side ka alg sabko pata hota h 
+ek baar key share hogaye tohr ound key should be secure, agar attavker key pe exahustic search krle toh 
+56 bit is very small iska solution kia h ? trible DES--->EDR  encrypt decrypt and ecrypt krrhe thy 1st or last m key dsame thi or middle m diff thy 
+triple DEs is a use of d
+week ciper ko strong krna hota h bht se jaagah
+
+
+DES ki security -->read book 
+search tools of these algorithm 
+
+
+BitLocker
+JCA?
+Lastpass
+Veracrypt
+AxCrypt
+LUKS is for linux user
+Python library pycryptodome
+https://www.devglan.com/online-tools/triple-des-encrypt-decrypt
+
+online tool
+
+bufferoverflow race condition , cryptopgrapgy book k akhir k questions krne h sceanior h try to solve them
